@@ -45,7 +45,32 @@ network diagnosis, Bash script flow, redirection, and cron scheduling. GitHub re
 20. [Quick command cheat sheet](#20-quick-command-cheat-sheet)
 
 ------------------------------------------------------------------------
+### should know 
+1.What is an operating system?
+An operating system (OS) is software that helps you use a computer.
+For example:
+- Windows runs on your laptop.
+- Android runs on many mobile phones.
+- Linux is used on computers and servers.
+The operating system helps applications use the computer's memory, processor, files, and other hardware.
 
+2. What is the Linux kernel?
+Think of a computer as a company.
+- Hardware = the machines and equipment.
+- Applications = the people doing different jobs.
+- Linux kernel = the manager that helps applications use the hardware properly.
+The Linux kernel is the core part of the operating system. It manages things like memory, running programs, and communication with hardware.
+3. What is a Linux distribution?
+The kernel alone isn't everything you need to comfortably use and manage a computer. You also need tools and other software.
+A Linux distribution (or distro) combines the Linux kernel with those tools and software to provide a usable operating system.
+Examples include:
+- Ubuntu — commonly used on desktops, servers, and in learning.
+- Debian — a Linux distribution known for stability.
+- Amazon Linux — designed for use with Amazon Web Services (AWS).
+- Red Hat Enterprise Linux (RHEL) — a Linux distribution used by businesses.
+
+ Linux is the core software that manages a computer's resources. A Linux distribution combines the Linux kernel with other tools and software to give you a complete operating system.
+ 
 ## 1. What is Linux?
 
 Linux is an operating-system kernel. Linux distributions such as Ubuntu,
